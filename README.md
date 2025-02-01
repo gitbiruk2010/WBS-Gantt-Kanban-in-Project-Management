@@ -1,4 +1,7 @@
 # Fitness Tracker App - Project Management Simulation
+![image](https://github.com/user-attachments/assets/be1dcacc-fe20-4f71-a4bf-427ce38f42dc)
+![image](https://github.com/user-attachments/assets/47ff9f45-afe2-4a09-a8c1-ab0ff580d5df)
+![image](https://github.com/user-attachments/assets/12332c35-e988-4e3f-be51-031a17d92341)
 
 ## Overview
 This project is a **hypothetical application development simulation** designed to demonstrate **project management techniques** using **Work Breakdown Structure (WBS), Gantt Charts, and Kanban Boards**. The goal is to simulate task organization, dependencies, and project progress tracking.
