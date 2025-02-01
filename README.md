@@ -19,6 +19,7 @@ This project is a **hypothetical application development simulation** designed t
 Tasks were prioritized based on **dependencies and resource constraints**, ensuring that critical components like **backend setup and authentication** were completed before dependent tasks such as **API integration** and **UI development**.
 
 ## How to Use This Repository
+- Download the pptx file
 - View the **WBS structure** to understand task breakdown.
 - Check the **Gantt Chart** for project timeline and dependencies.
 - Use the **Kanban Board** to track task progress.
